@@ -1,7 +1,8 @@
 ## Hello there, I am Swee En! 👋
 
 #### Final Year Data Science and Analytics Student studying in NUS 👩🏻‍💻
-
+I’m passionate about using data to solve real-world problems through machine learning, statistical modeling, and data-driven decision-making. 
+If you have any opportunities or just want to connect, feel free to reach out! 📧 [sweeen.lim@u.nus.edu] | 🌐 [LinkedIn](https://www.linkedin.com/in/swee-en-lim-1a9625249/)
 
 ---  
   
