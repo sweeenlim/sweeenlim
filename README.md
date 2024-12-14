@@ -2,7 +2,7 @@
 
 #### Final Year Data Science and Analytics Student studying in NUS 👩🏻‍💻
 I’m passionate about using data to solve real-world problems through machine learning, statistical modeling, and data-driven decision-making. 
-If you have any opportunities or just want to connect, feel free to reach out! 📧 [Email](sweeen.lim@u.nus.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/swee-en-lim-1a9625249/)
+If you have any opportunities or just want to connect, feel free to reach out! 📧 [Email](mailto:sweeen.lim@u.nus.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/swee-en-lim-1a9625249/)
 
 ---  
   
